@@ -44,6 +44,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		44AF81A72980FA90004780F8 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				44C4AA5F297FA0870033E348 /* ContactListSwiftUIApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		44AF81A82980FAAE004780F8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				44C4AA63297FA0880033E348 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		44C4AA53297FA0870033E348 = {
 			isa = PBXGroup;
 			children = (
@@ -63,11 +79,11 @@
 		44C4AA5E297FA0870033E348 /* ContactListSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				44C4AA5F297FA0870033E348 /* ContactListSwiftUIApp.swift */,
+				44AF81A72980FA90004780F8 /* App */,
 				44C4AA77297FB0700033E348 /* Views */,
 				44C4AA74297FA5BF0033E348 /* Services */,
 				44C4AA71297FA5880033E348 /* Model */,
-				44C4AA63297FA0880033E348 /* Assets.xcassets */,
+				44AF81A82980FAAE004780F8 /* Resources */,
 				44C4AA65297FA0880033E348 /* Preview Content */,
 			);
 			path = ContactListSwiftUI;

@@ -1,5 +1,5 @@
 //
-//  PersonInfo.swift
+//  PersonInfoView.swift
 //  ContactListSwiftUI
 //
 //  Created by Eugene on 24.01.23.

@@ -7,8 +7,6 @@
 
 import Foundation
 
-import Foundation
-
 struct Person: Identifiable {
     let id: String
     let name: String
